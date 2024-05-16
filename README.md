@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Hlib Pavlyk
 
-## .NET Developer
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF73D&width=435&lines=>+.NET+Developer)
 ### My Contacts
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pavlikgo78@gmail.com)
@@ -18,16 +17,16 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hlibpavlyk&show_icons=true&locale=en&layout=compact&theme=dark" alt="hlibpavlyk" /></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlibpavlyk&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/hlibpavlyk">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlibpavlyk&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hlibpavlyk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 <br>
 
-### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hlibpavlyk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
 ### My GitHub Contributions
-![Snake animation](https://github.com/hlibpavlyk/hlibpavlyk/blob/output/github-snake.svg)
+
+![Snake animation](https://github.com/hlibpavlyk/hlibpavlyk/blob/output/github-contribution-grid-snake-dark.svg)
 
