@@ -9,18 +9,17 @@
 <br>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,go,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,py,go,ts,js,html,css)](https://skillicons.dev)
 <br>
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=dotnet,unity,mysql,sqlite,bootstrap,linux,docker,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,unity,mysql,bootstrap,linux,docker,git,githubactions)](https://skillicons.dev)
 <br>
 <br>
 
 <div>
-  <a href="https://github.com/hlibpavlyk">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlibpavlyk&layout=compact&langs_count=16&theme=dark"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hlibpavlyk&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlibpavlyk&layout=compact&langs_count=16&theme=dark"/>
+  <img align="center"src="https://github-readme-stats.vercel.app/api?username=hlibpavlyk&show_icons=true&theme=dark&hide=issues"/>
 </div>
 <br>
 
